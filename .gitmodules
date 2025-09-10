@@ -1,0 +1,6 @@
+[submodule "s2pi"]
+	path = s2pi
+	url = git@github.com:hpb-htw/s2pi.git
+[submodule "s2pi-doc"]
+	path = s2pi-doc
+	url = git@github.com:hpb-htw/s2pi-doc.git
