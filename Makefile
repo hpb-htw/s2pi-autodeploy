@@ -1,7 +1,13 @@
 build:
 	doxygen doxygen.conf
-	rsync -a --delete --progress tmp/html/ s2pi-doc --exclude .git
+	rsync -a --delete tmp/html/ s2pi-doc --exclude .git
 
+test:
+	make -C s2pi/demo
+	
+preview:
+	python -m http.server -d s2pi-doc & true
+	
 clean:
 	rm -rf tmp/
 
