@@ -12,12 +12,12 @@ s2pi/demo/demooverdraw.asy
 s2pi/demo/demooverdraw.pdf
 s2pi/demo/demoprojektionen.asy
 s2pi/demo/demoprojektionen.pdf
+s2pi/demo/demosegmentized.asy
 s2pi/demo/globalsetting.asy
 s2pi/demo/runasy.py
 s2pi/demo/shortcut.tex
 s2pi/demo/template.asy
 s2pi/demo/template.pdf
-s2pi/demo/tools.asy
 s2pi/dummy.h.notuse
 s2pi/shortcut.tex
 s2pi/tools.asy
