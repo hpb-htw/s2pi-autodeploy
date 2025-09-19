@@ -20,4 +20,5 @@ s2pi/demo/template.asy
 s2pi/demo/template.pdf
 s2pi/dummy.h.notuse
 s2pi/shortcut.tex
-s2pi/tools.asy
+s2pi/spatium.asy
+s2pi/plana.asy
